@@ -52,7 +52,7 @@
 ## Контакты
 <a href="https://t.me/shameoff" rel="id138729111">![vk Егор Шамов](./img/icons/vk.ico)</a>
 <a href="https://vk.com/shameoff" rel="@shameoff">![tg @shameoff](./img/icons/tg.ico)</a>
-<a href="mailto://eshamov030316@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](./img/icons/gmail.ico)</a>
+<a href="mailto:eshamov030316@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](./img/icons/gmail.ico)</a>
 <a href="https://github.com/shameoff" rel="shameoff github">![tg @shameoff](./img/icons/github.ico)</a>
 
 
