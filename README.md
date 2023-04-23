@@ -40,19 +40,24 @@
 
 * Владею английским на уровне B1-B2, курировал группу иностранцев-первокурсников
 
-## Достижения 
-Все подтверждения лежат здесь
+## Достижения
+Все сертификаты находятся в приложении ниже 
 * Финалист Вездекода 2022 (21 место)
-
 * Финалист Rosneft IT марафона 2022 (16 место)
-
 * Финалист Skolkovo Hack 2022 (4 место)
-
 * Финалист Agora Hack 2022 (5 место)
-
 * Окончил школу с медалью 
 
-<img src="./img/certificates/RosneftMarathon.jpg" alt= "certificate" width="200" style="border-radius:10%">
-<img src="./img/certificates/AgoraHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
+
+## Контакты
+<a href="https://t.me/shameoff" rel="id138729111">![vk Егор Шамов](./img/icons/vk.ico)</a>
+<a href="https://vk.com/shameoff" rel="@shameoff">![tg @shameoff](./img/icons/tg.ico)</a>
+<a href="mailto://eshamov030316@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](./img/icons/gmail.ico)</a>
+<a href="https://github.com/shameoff" rel="shameoff github">![tg @shameoff](./img/icons/github.ico)</a>
+
+
+## Приложение
 <img src="./img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="./img/certificates/SkolkovoHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
+<img src="./img/certificates/RosneftMarathon.jpg" alt= "certificate" width="200" style="border-radius:10%">
+<img src="./img/certificates/AgoraHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
