@@ -12,8 +12,8 @@
 * Работаю преподавателем Python в школе дополнительного образования на неполной ставке
  (с 03 марта 2023 по текущее время)
 
-* Прошел очные курсы дополнительного профессионального образования по информационной безопасности (09.04.2023 - 23.04.2023, 144 часа)
-[Сертификат](Чуть позже тут появится ссылка) 
+* Прошел очные курсы дополнительного профессионального образования по информационной безопасности  
+09.04.2023 - 23.04.2023, 144 часа, сертификат в приложении ниже 
 
 * В рамках учебного курса пишу API для мессенджера на Spring Boot  
 [Java Messenger](https://github.com/shameoff/Messenger_SpringLab)
@@ -41,12 +41,14 @@
 * Владею английским на уровне B1-B2, курировал группу иностранцев-первокурсников
 
 ## Достижения
-Все сертификаты находятся в приложении ниже 
+* Финалист Changellenge Cup IT (4 место, номинация "Нестандартное решение")
 * Финалист Вездекода 2022 (21 место)
 * Финалист Rosneft IT марафона 2022 (16 место)
 * Финалист Skolkovo Hack 2022 (4 место)
 * Финалист Agora Hack 2022 (5 место)
-* Окончил школу с медалью 
+* Окончил школу с медалью  
+
+Все сертификаты находятся в приложении ниже 
 
 
 ## Контакты
@@ -57,7 +59,10 @@
 
 
 ## Приложение
+<img src="./img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
+<img src="./img/certificates/Sirius Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
 <img src="./img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="./img/certificates/SkolkovoHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="./img/certificates/RosneftMarathon.jpg" alt= "certificate" width="200" style="border-radius:10%">
+<img src="./img/certificates/Tinkoff Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
 <img src="./img/certificates/AgoraHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
