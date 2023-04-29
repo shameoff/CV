@@ -1,5 +1,7 @@
 # Резюме
-[Смотреть pdf](https://shameoff.ru/cv.pdf)
+[Смотреть pdf](https://shameoff.ru/cv.pdf)  
+[Смотреть на сайте](https://shameoff.ru/)  
+[Смотреть на github](https://github.com/shameoff/CV)
 
 ## О себе
 <img src="./img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
@@ -57,7 +59,7 @@
 
 
 ## Приложение
-Все сертификаты можно скачать и посмотреть в исходном формате можно [здесь](https://github.com/shameoff/CV) 
+Все сертификаты можно скачать и посмотреть в исходном формате можно [здесь](https://github.com/shameoff/CV/tree/main/img/certificates) 
 
 <img src="./img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="./img/certificates/Sirius Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
