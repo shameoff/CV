@@ -1,7 +1,5 @@
 # Резюме
-
-[Скачать pdf]()
-
+[Смотреть pdf](https://shameoff.ru/cv.pdf)
 ## О себе
 <img src="./img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
 
