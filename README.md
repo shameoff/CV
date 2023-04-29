@@ -1,4 +1,7 @@
 # Резюме
+
+[Скачать pdf]()
+
 ## О себе
 <img src="./img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
 
@@ -49,8 +52,8 @@
 * Окончил школу с медалью  
 
 ## Контакты
-<a href="https://t.me/shameoff" rel="id138729111">![vk Егор Шамов](./img/icons/vk.png)</a>
-<a href="https://vk.com/shameoff" rel="@shameoff">![tg @shameoff](./img/icons/tg.png)</a>
+<a href="https://vk.com/shameoff" rel="id138729111">![vk Егор Шамов](./img/icons/vk.png)</a>
+<a href="https://t.me/shameoff" rel="@shameoff">![tg @shameoff](./img/icons/tg.png)</a>
 <a href="mailto:eshamov030316@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](./img/icons/gmail.png)</a>
 <a href="https://github.com/shameoff" rel="shameoff github">![tg @shameoff](./img/icons/github.png)</a>
 
