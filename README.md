@@ -48,9 +48,6 @@
 * Финалист Agora Hack 2022 (5 место)
 * Окончил школу с медалью  
 
-Все сертификаты находятся в приложении ниже 
-
-
 ## Контакты
 <a href="https://t.me/shameoff" rel="id138729111">![vk Егор Шамов](./img/icons/vk.png)</a>
 <a href="https://vk.com/shameoff" rel="@shameoff">![tg @shameoff](./img/icons/tg.png)</a>
