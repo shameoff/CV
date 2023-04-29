@@ -1,9 +1,3 @@
----
-title: "Моё резюме"
-author: "Егор Шамов"
-encoding: UTF-8
----
-
 # Резюме
 ## О себе
 <img src="./img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
