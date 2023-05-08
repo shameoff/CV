@@ -33,7 +33,7 @@ jobs:
             --output=temp.html
         
       - name: install fonts
-        run: sudo apt update && sudo apt install fonts-dejavu-core fonts-dejavu-xtra
+        run: sudo apt update && sudo apt install fonts-dejavu-core fonts-dejavu-extra
       
       - name: convert temp.html to pdf
         uses: docker://pandoc/latex:2.9
