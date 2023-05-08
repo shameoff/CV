@@ -49,7 +49,7 @@ jobs:
             -V linkcolor=blue
             -V urlcolor=blue
             -V toccolor=gray
-            -V mainfont="DejaVu Sans"
+            -V mainfont="DejaVu"
 
       - name: upload artifacts to download them later
         uses: actions/upload-artifact@v3
