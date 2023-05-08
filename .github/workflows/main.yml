@@ -36,7 +36,7 @@ jobs:
         run: sudo apt update && sudo apt install fonts-dejavu-core fonts-dejavu-extra
       
       - name: convert temp.html to pdf
-        uses: docker://pandoc/latex:2.9
+        uses: docker://pandoc/extra:latest
         with:
           args: >-
             temp.html
