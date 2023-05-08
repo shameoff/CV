@@ -31,7 +31,10 @@ jobs:
           args: >-
             README.md
             --output=temp.html
-
+        
+      - name: install fonts
+        run: sudo apt update && sudo apt install fonts-dejavu-core fonts-dejavu-xtra
+      
       - name: convert temp.html to pdf
         uses: docker://pandoc/latex:2.9
         with:
@@ -42,11 +45,11 @@ jobs:
             --listings
             --css=css/bootstrap.min.css
             -V geometry:"left=1.5cm,right=1.5cm,top=2cm,bottom=2cm"
-            -V colorlinks=true
+            -V colorlinks=trgue
             -V linkcolor=blue
             -V urlcolor=blue
             -V toccolor=gray
-            
+            -V mainfont="DejaVu Sans"
 
       - name: upload artifacts to download them later
         uses: actions/upload-artifact@v3
@@ -58,7 +61,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Push files to remote host
-        run: scp output/ ${{secrets.REMOTE_USER}}@${{secrets.REMOTE_HOST}}:${{secrets.REMOTE_PORT}}:/projects/my_CV
+        run: scp -P ${{secrets.REMOTE_PORT}} output/ ${{secrets.REMOTE_USER}}@${{secrets.REMOTE_HOST}}:/projects/my_CV
         env: 
           SSH_PRIVATE_KEY: ${{ secrets.ACTOR_PRIVATE_KEY }}
       
