@@ -46,7 +46,7 @@ jobs:
             -V linkcolor=blue
             -V urlcolor=blue
             -V toccolor=gray
-            -V mainfont="DejaVu"
+            # -V mainfont="DejaVu"
             
 
       - name: upload artifacts to download them later
