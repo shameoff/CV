@@ -57,11 +57,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Push files to remote host
-        run: scp -P ${{secrets.REMOTE_PORT}} output/ ${{secrets.REMOTE_USER}}@${{secrets.REMOTE_HOST}}:/projects/my_CV
-        env: 
-          SSH_PRIVATE_KEY: ${{ secrets.ACTOR_PRIVATE_KEY }}
-      
+
       - name: Delivery with ssh-key
         uses: "appleboy/ssh-action@v0.1.10"
         with:
@@ -69,5 +65,13 @@ jobs:
           key: ${{ secrets.ACTOR_PRIVATE_KEY }}
           host: ${{ secrets.REMOTE_HOST }}
           port: ${{ secrets.REMOTE_PORT }}
-          script: cd /projects/my_CV && git pull 
+          script: cd /projects/my_CV && git pull
+
+      - name: Push files to remote host
+        run: ssh-add - <<< "$SSH_PRIVATE_KEY" && scp -P ${{secrets.REMOTE_PORT}} output/ ${{secrets.REMOTE_USER}}@${{secrets.REMOTE_HOST}}:/projects/my_CV
+        env: 
+          SSH_PRIVATE_KEY: ${{ secrets.ACTOR_PRIVATE_KEY }}
+      
+
+    needs: build
 
