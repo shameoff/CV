@@ -70,7 +70,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: "converted-files"
-          path: "converted-files/"
+          path: "build/"
 
       - name: Copy artifacts to server
         uses: appleboy/scp-action@v0.1.4
@@ -81,4 +81,5 @@ jobs:
           port: ${{ secrets.REMOTE_PORT }}
           source: "converted-files/*"
           target: "/projects/my_CV/"
+          strip_components: 1 # для того, чтобы папки converted-files не существовало
       
