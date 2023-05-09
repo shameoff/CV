@@ -4,7 +4,7 @@
 [Смотреть на github](https://github.com/shameoff/CV)
 
 ## О себе
-<img src="./img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
+<img src="resources/img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
 
 * Студент 2 курса "Высшей IT школы" НИ Томского Государственного Университета по направлению "Программная инженерия"
 * Живу в Томске
@@ -52,19 +52,19 @@
 * Окончил школу с медалью  
 
 ## Контакты
-<a href="https://vk.com/shameoff" rel="id138729111">![vk Егор Шамов](./img/icons/vk.png)</a>
-<a href="https://t.me/shameoff" rel="@shameoff">![tg @shameoff](./img/icons/tg.png)</a>
-<a href="mailto:eshamov030316@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](./img/icons/gmail.png)</a>
-<a href="https://github.com/shameoff" rel="shameoff github">![tg @shameoff](./img/icons/github.png)</a>
+<a href="https://vk.com/shameoff" rel="id138729111">![vk Егор Шамов](resources/img/icons/vk.png)</a>
+<a href="https://t.me/shameoff" rel="@shameoff">![tg @shameoff](resources/img/icons/tg.png)</a>
+<a href="mailto:eshamov030316@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](resources/img/icons/gmail.png)</a>
+<a href="https://github.com/shameoff" rel="shameoff github">![tg @shameoff](resources/img/icons/github.png)</a>
 
 
 ## Приложение
 Все сертификаты можно скачать и посмотреть в исходном формате можно [здесь](https://github.com/shameoff/CV/tree/main/img/certificates) 
 
-<img src="./img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="./img/certificates/Sirius Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
-<img src="./img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="./img/certificates/SkolkovoHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="./img/certificates/RosneftMarathon.jpg" alt= "certificate" width="200" style="border-radius:10%">
-<img src="./img/certificates/Tinkoff Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
-<img src="./img/certificates/AgoraHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
+<img src="resources/img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
+<img src="resources/img/certificates/Sirius Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
+<img src="resources/img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
+<img src="resources/img/certificates/SkolkovoHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
+<img src="resources/img/certificates/RosneftMarathon.jpg" alt= "certificate" width="200" style="border-radius:10%">
+<img src="resources/img/certificates/Tinkoff Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
+<img src="resources/img/certificates/AgoraHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
