@@ -21,8 +21,11 @@
 
 используются команды  
 <code>
-pandoc -o README.html README.md  
+pandoc -o temp.html README.md  
 &&  
-pandoc --pdf-engine=YOURENGINE -V mainfont="Arial" README.html cv.pdf  
+pandoc temp.html --output=output/cv.pdf --pdf-engine=xelatex --listings --css=css/bootstrap.min.css -V geometry:"left=1.5cm,right=1.5cm,top=2cm,bottom=2cm" -V colorlinks=trgue -V linkcolor=blue -V urlcolor=blue -V toccolor=gray -V mainfont="DejaVuSans"
 </code>
 
+### Зачем докерфайл?
+
+Ну, я сбилдил свой образ над pandoc/latex:latest (возможно, это была версия 2.9) и залил его на докер хаб, чтобы использовать кириллицу в github actions...
