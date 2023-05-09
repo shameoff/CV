@@ -65,6 +65,12 @@ jobs:
           host: ${{ secrets.REMOTE_HOST }}
           port: ${{ secrets.REMOTE_PORT }}
           script: "cd /projects/my_CV && git pull"
+      
+      - name: download artifacts
+        uses: actions/download-artifact@v2
+        with:
+          name: "converted-files"
+          path: "converted-files/"
 
       - name: Copy artifacts to server
         uses: appleboy/scp-action@v0.1.4
@@ -73,6 +79,6 @@ jobs:
           key: ${{ secrets.ACTOR_PRIVATE_KEY }}
           host: ${{ secrets.REMOTE_HOST }}
           port: ${{ secrets.REMOTE_PORT }}
-          source: "${{ GITHUB.WORKSPACE }}/converted-files/*"
+          source: "converted-files/*"
           target: "/projects/my_CV/"
-
+      
