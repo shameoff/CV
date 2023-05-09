@@ -79,7 +79,7 @@ jobs:
           key: ${{ secrets.ACTOR_PRIVATE_KEY }}
           host: ${{ secrets.REMOTE_HOST }}
           port: ${{ secrets.REMOTE_PORT }}
-          source: "converted-files/*"
+          source: "build/*"
           target: "/projects/my_CV/"
           strip_components: 1 # для того, чтобы папки converted-files не существовало
       
