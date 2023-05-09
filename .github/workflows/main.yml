@@ -73,6 +73,6 @@ jobs:
           key: ${{ secrets.ACTOR_PRIVATE_KEY }}
           host: ${{ secrets.REMOTE_HOST }}
           port: ${{ secrets.REMOTE_PORT }}
-          source: "output/*"
+          source: "${{ GITHUB.WORKSPACE }}/converted-files/*"
           target: "/projects/my_CV/"
 
