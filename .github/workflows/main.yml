@@ -18,7 +18,7 @@ jobs:
 
 
       - name: convert_with_pandoc
-        uses: docker://pandoc/latex:2.9
+        uses: docker://pandoc/core:2.9
         with:
           args: >-
             --output=output/index.html
@@ -26,7 +26,7 @@ jobs:
             README.md
 
       - name: create temp.html
-        uses: docker://pandoc/latex:2.9
+        uses: docker://pandoc/core:2.9
         with:
           args: >-
             README.md
@@ -49,7 +49,9 @@ jobs:
             -V linkcolor=blue
             -V urlcolor=blue
             -V toccolor=gray
-            -V mainfont="Ubuntu"
+            -V mainfont="DejaVu Sans"
+          volumes: |
+            - ${{ github.workspace }}/fonts:/usr/share/fonts
 
       - name: upload artifacts to download them later
         uses: actions/upload-artifact@v3
