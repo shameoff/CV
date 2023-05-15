@@ -37,13 +37,14 @@
 [Интерпретатор для самописного языка программирования на Kotlin](https://github.com/shameoff/Interpreter)  
 [Алгоритмы приближения и оптимизации на JS](https://github.com/shameoff/HITs-6-module-Interesting-Algorithms)
 
-* Есть опыт администрирования Linux, контейнеризации, виртуализации, преимущественно vagrant, docker, docker-compose, неплохо владею Python и node.js стэком, понемногу изучаю теорию сетей и инструменты автоматизации
+* Есть опыт администрирования Linux, контейнеризации, виртуализации, преимущественно vagrant, docker, docker-compose, работал с Python и node.js стэком, понемногу изучаю теорию сетей и инструменты автоматизации
 
 * Считаю себя универсальным солдатом, потому что люблю изучать что-то новое и готов моментально переключиться на новый проект или технологию.
 
 * Владею английским на уровне B1-B2, курировал группу иностранцев-первокурсников
 
 ## Достижения
+* Победитель Samokat.tech Hackathon 
 * Финалист Changellenge Cup IT (4 место, номинация "Нестандартное решение")
 * Финалист Вездекода 2022 (21 место)
 * Финалист Rosneft IT марафона 2022 (16 место)
@@ -60,7 +61,7 @@
 
 ## Приложение
 Все сертификаты можно скачать и посмотреть в исходном формате можно [здесь](https://github.com/shameoff/CV/tree/main/img/certificates) 
-
+<img src="resources/img/certificates/Samokat.tech_Zhumaysymba_Warriors.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/Sirius Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
