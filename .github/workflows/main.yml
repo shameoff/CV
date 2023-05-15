@@ -38,6 +38,8 @@ jobs:
             temp.html
             --output=output/cv.pdf
             --pdf-engine=xelatex
+            --pdf-engine-optimize
+            --dpi=300
             --listings
             --css=resources/css/bootstrap.min.css
             -V geometry:"left=1.5cm,right=1.5cm,top=2cm,bottom=2cm"

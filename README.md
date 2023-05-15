@@ -61,6 +61,8 @@
 
 ## Приложение
 Все сертификаты можно скачать и посмотреть в исходном формате можно [здесь](https://github.com/shameoff/CV/tree/main/img/certificates) 
+<!-- Тут обязательно нужна пустая строка, иначе структура PDF будет работать неправильно -->
+
 <img src="resources/img/certificates/Samokat.tech_Zhumaysymba_Warriors.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/Sirius Certificate.jpg" alt= "certificate" width="240" style="border-radius:10%">
