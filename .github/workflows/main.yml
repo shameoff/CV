@@ -38,7 +38,6 @@ jobs:
             temp.html
             --output=output/cv.pdf
             --pdf-engine=xelatex
-            --pdf-engine-optimize
             --dpi=300
             --listings
             --css=resources/css/bootstrap.min.css
