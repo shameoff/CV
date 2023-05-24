@@ -22,7 +22,7 @@
 [Java Messenger](https://github.com/shameoff/Messenger_SpringLab)
 
 * Есть небольшой опыт в ML в рамках учебных дисциплин  
-[Анализ токсичных комментариев(в процессе выполнения)](https://github.com/shameoff/toxic_comments_ML_Lab1)  
+[Анализ токсичных комментариев](https://github.com/shameoff/toxic_comments_ML_Lab1)  
 [Заключительная работа по основам ML](https://github.com/shameoff/ML_lab_cosmos_titanic)
 
 * Знаком с React.js, писал фронтенд для 2 приложений     
