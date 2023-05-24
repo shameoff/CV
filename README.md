@@ -69,8 +69,6 @@
 <img src="resources/img/certificates/YaProfi2023.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/DevRelOrganizer.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/HackWagonOrganizer.png" alt= "certificate" width="240" style="border-radius:10%">
-
-<img src="resources/img/certificates/.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/SkolkovoHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
 <img src="resources/img/certificates/RosneftMarathon.png" alt= "certificate" width="200" style="border-radius:10%">
