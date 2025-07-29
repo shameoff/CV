@@ -1,10 +1,6 @@
 # Резюме
 
-[Смотреть pdf](https://shameoff.ru/cv.pdf)  
-[Смотреть на сайте](https://shameoff.ru/)  
-[Смотреть на github](https://github.com/shameoff/CV)
-
-## О себе
+## Я Егор
 
 <img src="resources/img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
 
@@ -69,3 +65,5 @@
 <a href="https://t.me/shameoff" rel="@shameoff">![tg @shameoff](resources/img/icons/tg.png)</a>
 <a href="https://vk.com/shameoff" rel="id138729111">![vk Егор Шамов](resources/img/icons/vk.png)</a>
 <a href="mailto:shameoff16@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](resources/img/icons/gmail.png)</a>
+
+[Это же резюме на Github](https://github.com/shameoff/CV)
