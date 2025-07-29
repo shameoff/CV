@@ -1,95 +1,71 @@
 # Резюме
+
 [Смотреть pdf](https://shameoff.ru/cv.pdf)  
 [Смотреть на сайте](https://shameoff.ru/)  
 [Смотреть на github](https://github.com/shameoff/CV)
 
 ## О себе
+
 <img src="resources/img/myphoto.jpg" alt= “myphoto.jpg” width="240" style="float: right; border-radius:10%">
 
-* Студент 3 курса "Высшей IT школы" НИ Томского Государственного Университета по направлению "Программная инженерия"
-* Живу в Томске
-* Участвую в хакатонах, иногда со стороны организаторов
-* Люблю активный отдых и IT мероприятия
+- Живу в Томске (Не уверен, что готов к переезду)
+- За любой движ в IT и не только
 
 ## Опыт работы
-* ООО «Тинькофф Центр Разработки»  
-**Стажер-разработчик в команде разработки SOC (Python)**  
-*(с 10.07.2023 по настоящее время)*
 
+- ООО «ТЦР» (Т-Банк)
+  **Инженер по надежности (SRE) в центре мониторинга информационной безопасности**
+  _(с 10.07.2023 по настоящее время)_
 
-* «Инжинириум МГТУ им. Н.Э. Баумана»  
-**преподаватель Python**  
-*(03.03.2023 - 31.05.2023)*
+### Образование
 
+- НИ ТГУ, Высшая IT школа  
+  **Бакалавр по направлению "Программная инженерия"**  
+  _09.2021 - 07.2025_
 
-### Курсы и дополнительное образование
-* **«Актуальные задачи информационной безопасности в компаниях»**  
-курсы дополнительного профессионального образования по информационной безопасности  
-*09.04.2023 - 23.04.2023*, 144 часа, сертификат в приложении ниже
+- Курс дополнительного профессионального образования по ИБ
+  **«Актуальные задачи информационной безопасности в компаниях»**
+  _09.04.2023 - 23.04.2023_, 144 часа
 
 ### Навыки и технологии
 
-#### QA опыт:
-* Умею в unit и интеграционное тестирование на pytest + плагины.  
-Работал с Allure TestOps, умею генерировать отчеты и селективный запуск тестов из GUI   
+#### IaC & GitOps
 
-#### Немножко SREшного опыта:
-* работал с ansible ролями, пока поднимал сложную впнку себе,
-* поднимал кластер k8s с kafka(KRaft), redis, minio + 6 микросервисов для системы тестирования кода, написанной на go (аля leetcode, но ТГУшный)
-* писал внутри команды джобы для gitlab-ci для выгрузки отчетов в allure testops, таска заняла много времени, потому что дока у allure :face_vomiting:
-* Умею писать докерфайлы, мультистейдж билд и все такое
-* Есть опыт администрирования и использования linux как на облачных виртуалках, так и на десктопе
-* И киллер фича - посмотрел курс Димы Масленникова по SRE
-* Работал с Github Actions, кстати это резюме пишется во все форматы само благодаря GH Actions
+- Написал несколько Ansible ролей, пару lookup плагинов и с несколько десятков плейбуков для CD (Continuous Delivery/Deployment) и других автоматизаций в рамках GitOps подхода.
+- Разработал 2 инструмента для управления инфраструктурой как кодом в GitOps подходе (Gitlab CI, Python, Docker, REST API, Ansible).
+
+#### Мониторинг и логирование
+
+- Настроил 10+ дашбордов в Grafana.
+- Настроил множество scrapper'ов метрик и логов (cAdvisor, Node Exporter, Vector.dev, filebeat, logstash).
+
+#### Администрирование и DevOps
+
+- Умею работать с OpenStack, есть опыт работы с промышленным окружением на виртуальных машинах (обслуживал парк машин в 300+ ВМ и 700+ контейнеров).
+- Использую и понимаю принципы работы с Git.
+- Есть опыт работы с K8s (но не highload).
+- Умею в балансировку нагрузки, работал с Nginx, HAProxy и Traefik. Небольшой опыт с Apache.
+- Есть базовые знания в области сетей и сетевой безопасности.
+- Есть как опыт работы с различными системами из области ИБ, так и опыт их администрирования.
 
 #### Разработка
-* Пробовал Django ([тык](https://github.com/shameoff/CommunicationsAPI))
 
-* Писал микросервисы на Spring Boot 2.7 + RabbitMQ + MinIO + PostgreSQL
-([Java Messenger](https://github.com/shameoff/Messenger_SpringLab))
+Бакалавр программной инженерии, умею писать код и знаю основы разработки ПО. В учебных примерах разрабатывал: [микросервисы](https://github.com/shameoff/Messenger_SpringLab) на Spring Boot 2.7 (RabbitMQ, MinIO, PostgreSQL), SPA на React.js ([тык](https://github.com/shameoff/Delivery.Kushats), [тык2](https://gitlab.com/outoftimeinc/frontend/outoftimefrontend)), [blog](https://github.com/shameoff/blogAPI) на Laravel (PHP)
 
-* Писал пару SPA на React + JS
-([delivery-app](https://github.com/shameoff/Delivery.Kushats), [schedule-app](https://gitlab.com/outoftimeinc/frontend/outoftimefrontend))
+Для себя чаще приходится писать небольшие прикладные программы. Подробнее о проектах на Github по ссылкам.
 
-* Писал на Laravel
-([blog](https://github.com/shameoff/blogAPI))
+#### Прочее
 
-* Немножко знаю алгоритмы
-([интепретатор на Kotlin](https://github.com/shameoff/Interpreter), 
-[визуальные алгоритмы на JS](https://github.com/shameoff/HITs-6-module-Interesting-Algorithms))
-
-* Немного знаком с C++, Go, Kotlin 
-
-#### Ну и если вам интересно
-* Владею английским на уровне B1-B2, курировал группу иностранцев-первокурсников
+- Владею **английским** на уровне **B1-B2**, свободно читаю техническую документацию и могу поддержать разговор.
+- Держу дома пару серверов, кручу умный дом на Home Assistant. Мечтаю собрать полностью изолированный умный дом с голосовым управлением.
 
 ## Достижения
-* Победитель Samokat.tech Hackathon 2023
-* Финалист Changellenge Cup IT 2023 (4 место, номинация "Нестандартное решение")
-* Финалист Вездекода 2022 (21 место)
-* Финалист Rosneft IT марафона 2022 (16 место)
-* Финалист Skolkovo Hack 2022 (4 место)
-* Финалист Agora Hack 2022 (5 место)
-* Окончил школу с медалью (ну это вообще киллер-фича, я обязан был об этом сказать)  
+
+- Победитель Samokat.tech Hackathon 2023
+- Финалист разных хакатонов и чемпионатов (2022-2023 года), подробнее [здесь](https://github.com/shameoff/CV/tree/main/img/certificates).
 
 ## Контакты
-<a href="https://vk.com/shameoff" rel="id138729111">![vk Егор Шамов](resources/img/icons/vk.png)</a>
+
 <a href="https://t.me/shameoff" rel="@shameoff">![tg @shameoff](resources/img/icons/tg.png)</a>
+<a href="https://vk.com/shameoff" rel="id138729111">![vk Егор Шамов](resources/img/icons/vk.png)</a>
 <a href="mailto:shameoff16@gmail.com" rel="eshamov030316@gmail.com">![eshamov030316@gmail.com](resources/img/icons/gmail.png)</a>
-<a href="https://github.com/shameoff" rel="shameoff github">![tg @shameoff](resources/img/icons/github.png)</a>
-
-
-## Приложение
-Все сертификаты можно скачать и посмотреть в исходном формате можно [здесь](https://github.com/shameoff/CV/tree/main/img/certificates) 
-<!-- Тут обязательно нужна пустая строка, иначе структура PDF будет работать неправильно -->
-
-<img src="resources/img/certificates/Samokat.tech_Zhumaysymba_Warriors.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/Changellenge unusual solve Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/Tinkoff Certificate.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/YaProfi2023.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/DevRelOrganizer.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/HackWagonOrganizer.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/HITSimp_Egor_Shamov.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/SkolkovoHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
-<img src="resources/img/certificates/RosneftMarathon.png" alt= "certificate" width="200" style="border-radius:10%">
-<img src="resources/img/certificates/AgoraHack2022.png" alt= "certificate" width="240" style="border-radius:10%">
